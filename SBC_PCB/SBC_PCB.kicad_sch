@@ -10850,7 +10850,7 @@
 	)
 	(symbol
 		(lib_id "Marijn:MIMX8MM5DVTLZDA")
-		(at 127 73.66 0)
+		(at 121.92 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10859,7 +10859,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a6df216-01a7-4f2b-ad06-6e00ff36be8d")
 		(property "Reference" "IC1"
-			(at 178.308 69.088 0)
+			(at 173.228 72.898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10869,7 +10869,7 @@
 			)
 		)
 		(property "Value" "MIMX8MM5DVTLZDA"
-			(at 132.08 69.088 0)
+			(at 127 72.898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10879,7 +10879,7 @@
 			)
 		)
 		(property "Footprint" "Marijn:BGA486"
-			(at 132.08 61.468 0)
+			(at 127 65.278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10889,7 +10889,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX8MMCEC.pdf"
-			(at 132.08 65.024 0)
+			(at 127 68.834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10899,7 +10899,7 @@
 			)
 		)
 		(property "Description" "i.MX 8M Mini Quad, 1xPCI-e"
-			(at 146.05 67.818 0)
+			(at 140.97 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10908,7 +10908,7 @@
 			)
 		)
 		(property "Height" "1.25"
-			(at 153.162 69.088 0)
+			(at 148.082 72.898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10918,7 +10918,7 @@
 			)
 		)
 		(property "mouser" "771-MIMX8MM6DVTLZAA"
-			(at 132.08 63.246 0)
+			(at 127 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13974,7 +13974,7 @@
 			)
 		)
 		(instances
-			(project "opensbc"
+			(project "SBC_PCB"
 				(path "/d9dda4d7-0333-4071-8f0e-c241dfa1ea76"
 					(page "2")
 				)
@@ -14015,7 +14015,7 @@
 			)
 		)
 		(instances
-			(project "opensbc"
+			(project "SBC_PCB"
 				(path "/d9dda4d7-0333-4071-8f0e-c241dfa1ea76"
 					(page "3")
 				)

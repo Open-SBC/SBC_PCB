@@ -609,6 +609,19 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "d9dda4d7-0333-4071-8f0e-c241dfa1ea76",
+      "Root"
+    ],
+    [
+      "0ae24414-b742-4e51-bafa-7f821ea4fc16",
+      "DRAM"
+    ],
+    [
+      "2ab68c7e-0f79-4c2f-b07f-bf1d5d2eeac8",
+      "eMMC"
+    ]
+  ],
   "text_variables": {}
 }
